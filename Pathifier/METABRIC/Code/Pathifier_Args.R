@@ -1,6 +1,6 @@
 ################################################################################
 # 2. Filtering and preprocessing of data for Pathifier
-## Author: Miguel Angel Garcia Campos github: https://github.com/AngelCampos
+# Author: Miguel Angel Garcia Campos github: https://github.com/AngelCampos
 ################################################################################
 ## MICHAL's  #_# METABRIC flavor
 # DATA INPUT
